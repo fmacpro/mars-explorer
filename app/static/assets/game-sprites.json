@@ -1,0 +1,595 @@
+{
+	"textures": [
+		{
+			"image": "game-sprites.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1020,
+				"h": 1464
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dishbase.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 734,
+						"h": 414
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 734,
+						"h": 414
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 734,
+						"h": 414
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "base.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 579,
+						"h": 489
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 579,
+						"h": 489
+					},
+					"frame": {
+						"x": 1,
+						"y": 417,
+						"w": 579,
+						"h": 489
+					},
+					"anchor": {
+						"x": 0.409326,
+						"y": 0.498978
+					}
+				},
+				{
+					"filename": "mars2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 282,
+						"h": 377
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 282,
+						"h": 377
+					},
+					"frame": {
+						"x": 737,
+						"y": 1,
+						"w": 282,
+						"h": 377
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "top.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 489,
+						"h": 489
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 489,
+						"h": 489
+					},
+					"frame": {
+						"x": 1,
+						"y": 908,
+						"w": 489,
+						"h": 489
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "dish.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 404,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 404,
+						"h": 64
+					},
+					"frame": {
+						"x": 1,
+						"y": 1399,
+						"w": 404,
+						"h": 64
+					},
+					"anchor": {
+						"x": 0.487624,
+						"y": 0.09375
+					}
+				},
+				{
+					"filename": "polar.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 360,
+						"h": 436
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 19,
+						"w": 360,
+						"h": 407
+					},
+					"frame": {
+						"x": 582,
+						"y": 417,
+						"w": 360,
+						"h": 407
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ufo.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 289,
+						"h": 289
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 289,
+						"h": 289
+					},
+					"frame": {
+						"x": 492,
+						"y": 908,
+						"w": 289,
+						"h": 289
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "beagle2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 346,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 245,
+						"h": 211
+					},
+					"frame": {
+						"x": 492,
+						"y": 1199,
+						"w": 245,
+						"h": 211
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "collectorbase.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 273,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 273,
+						"h": 54
+					},
+					"frame": {
+						"x": 582,
+						"y": 826,
+						"w": 273,
+						"h": 54
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "rover.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 194,
+						"h": 205
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 194,
+						"h": 205
+					},
+					"frame": {
+						"x": 783,
+						"y": 882,
+						"w": 194,
+						"h": 205
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "edm.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 208,
+						"h": 202
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 32,
+						"w": 173,
+						"h": 120
+					},
+					"frame": {
+						"x": 783,
+						"y": 1089,
+						"w": 173,
+						"h": 120
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "dishtower.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 164,
+						"h": 164
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 164,
+						"h": 164
+					},
+					"frame": {
+						"x": 739,
+						"y": 1211,
+						"w": 164,
+						"h": 164
+					},
+					"anchor": {
+						"x": 0.493902,
+						"y": 0.493902
+					}
+				},
+				{
+					"filename": "rock1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 137,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 137,
+						"h": 86
+					},
+					"frame": {
+						"x": 739,
+						"y": 1377,
+						"w": 137,
+						"h": 86
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "rock2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 89,
+						"h": 117
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 89,
+						"h": 117
+					},
+					"frame": {
+						"x": 905,
+						"y": 1211,
+						"w": 89,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "arrow.png",
+					"rotated": true,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 41
+					},
+					"frame": {
+						"x": 878,
+						"y": 1377,
+						"w": 86,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.170213,
+						"y": 0.488889
+					}
+				},
+				{
+					"filename": "rock3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 53
+					},
+					"frame": {
+						"x": 407,
+						"y": 1399,
+						"w": 70,
+						"h": 53
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "rock5.png",
+					"rotated": true,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 53,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 53,
+						"h": 67
+					},
+					"frame": {
+						"x": 857,
+						"y": 826,
+						"w": 53,
+						"h": 67
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "rock4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 36
+					},
+					"frame": {
+						"x": 905,
+						"y": 1330,
+						"w": 78,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ramstick.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 72,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 21
+					},
+					"frame": {
+						"x": 737,
+						"y": 380,
+						"w": 72,
+						"h": 21
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "harddrive.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 41,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 41,
+						"h": 56
+					},
+					"frame": {
+						"x": 921,
+						"y": 1368,
+						"w": 41,
+						"h": 56
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "copper.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 38
+					},
+					"frame": {
+						"x": 479,
+						"y": 1412,
+						"w": 50,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "pepsican.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 30
+					},
+					"frame": {
+						"x": 531,
+						"y": 1412,
+						"w": 49,
+						"h": 30
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "cpu.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 28,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 921,
+						"y": 1426,
+						"w": 28,
+						"h": 26
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b29daa48edeb3c8e107d1f1ede9d2110:74c9d4b9189621fe1d489bd65fa06faa:6c31e76162759595c120c84b8850a36e$"
+	}
+}

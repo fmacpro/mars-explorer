@@ -1,0 +1,37 @@
+{
+  "title": "mars-explorer",
+  "description": "An exploration and puzzle solving game written using the phaser 3 canvas game engine with matter.js physics",
+  "version": "0.1",
+  "url": "https://fmac.pro",
+  "author": "Frank MacDonald",
+  "license": "GPL-3.0",
+  "scripts": {
+    "clean": "gulp clean",
+    "dist": "gulp dist",
+    "format": "eslint \"app/scripts/**/*.js\" --fix",
+    "lint": "eslint \"app/scripts/**/*.js\"",
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.54",
+    "@babel/preset-env": "^7.0.0-beta.54",
+    "babel-loader": "^8.0.0-beta.4",
+    "browser-sync": "^2.24.6",
+    "copy-webpack-plugin": "^4.5.2",
+    "del": "^3.0.0",
+    "eslint": "^5.2.0",
+    "eslint-loader": "^2.1.0",
+    "fancy-log": "^1.3.2",
+    "gulp": "^4.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "plugin-error": "^1.0.1",
+    "read-pkg-up": "^4.0.0",
+    "webpack": "^4.16.2",
+    "webpack-dev-middleware": "^3.1.3"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.0.0-beta.54",
+    "phaser": "^3.11.0"
+  },
+  "private": true
+}
