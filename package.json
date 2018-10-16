@@ -1,7 +1,7 @@
 {
   "title": "mars-explorer",
   "description": "An exploration and puzzle solving game written using the phaser 3 canvas game engine with matter.js physics",
-  "version": "0.1",
+  "version": "0.0.1",
   "url": "https://fmac.pro",
   "author": "Frank MacDonald",
   "license": "GPL-3.0",
