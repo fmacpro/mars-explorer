@@ -2,6 +2,10 @@
 
 An exploration and puzzle solving game written using the phaser 3 canvas game engine with Matter.js physics. 
 
+![screen 1](https://i.imgur.com/5PfWwzy.jpg "screen 1")
+
+![screen 2](https://i.imgur.com/thh3RdD.jpg "screen 2")
+
 ## Q & A
 
 is this a complete game?
